@@ -1,11 +1,14 @@
 # beta_01
 what i have rn:
+
 1) movements
 2) force, velocity and acceleration
 3) angles ( will be edited after some time )
 4) poorly maded camera
 5) badass ship design
+
 needed rn:
+
 1) proper zoom and smooth camera movements
 2) menu
 3) enemies and damage
