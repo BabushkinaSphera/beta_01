@@ -22,4 +22,4 @@ needed rn:
 omfg it's so much work to do...
 8) map
 9) crew members
-10) idk, we will see
+10) putting all this shit in EXE file
